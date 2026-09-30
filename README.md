@@ -1,6 +1,3 @@
-# \# java-study
+# java-study
 
-# 
-
-# Java study day1
-
+Java study day1
